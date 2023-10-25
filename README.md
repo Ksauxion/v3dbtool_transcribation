@@ -1,6 +1,8 @@
 This script allows you to transcribe non-japanese samples for further using in Vocaloid DBTool.<br />
+<br />
 Syntax:<br />
 transcribation_tool.py [PATH-TO-ROOT-WAV-DIR (in '', if contains spaces)] -v [VOWEL LIST SEPARATED BY -, EMPTY DEFAULT ] -t [0 - NO TRIPHONES, 1 - VCV ONLY, 2 - ALL TRIPHONES, 0 DEFAULT] -a [ARTICULATIONS SUBFOLDER, articulations DEFAULT] -s [STATIONARIES SUBFOLDER, stationary DEFAULT]<br />
+<br />
 Directory structure:<br />
 
 wav_root
